@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="zuul-server"/>
+<aop-project name="eureka-server"/>
+<aop-project name="gallery-service"/>
+<aop-project name="img-service"/>
+</aop-reference-model>

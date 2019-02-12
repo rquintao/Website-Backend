@@ -1,0 +1,6 @@
+package com.website.galleryservice.config;
+
+@Configuration
+public class RestTemplateConfig {
+
+}

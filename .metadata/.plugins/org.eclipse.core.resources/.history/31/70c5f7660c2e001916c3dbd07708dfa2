@@ -1,0 +1,2 @@
+#Name of Eureka server
+spring.application.name=eureka-server

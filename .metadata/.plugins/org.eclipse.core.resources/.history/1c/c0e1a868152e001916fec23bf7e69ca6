@@ -1,0 +1,6 @@
+package com.website.galleryservice.entities;
+
+public class Gallery {
+	private Integer id;
+	private List<Object> images;
+}

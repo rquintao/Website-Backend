@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "zuul.ignored-services",
+    "type": "java.lang.String",
+    "description": "A description for 'zuul.ignored-services'"
+  },
+  {
+    "name": "zuul.routes.gallery-service.service-id",
+    "type": "java.lang.String",
+    "description": "A description for 'zuul.routes.gallery-service.service-id'"
+  }
+]}

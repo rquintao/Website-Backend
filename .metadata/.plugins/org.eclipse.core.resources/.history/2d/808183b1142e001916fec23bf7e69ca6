@@ -1,0 +1,8 @@
+package com.website.galleryservice.controllers;
+
+
+@RestController
+@RequestMapping("/")
+public class HomeController {
+
+}

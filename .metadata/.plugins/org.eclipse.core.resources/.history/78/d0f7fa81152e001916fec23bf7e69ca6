@@ -1,0 +1,10 @@
+package com.website.galleryservice.entities;
+
+import java.util.List;
+
+public class Gallery {
+	private Integer id;
+	private List<Object> images;
+	
+	public Gallery(){}
+}

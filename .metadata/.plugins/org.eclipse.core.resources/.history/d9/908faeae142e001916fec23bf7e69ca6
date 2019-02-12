@@ -1,0 +1,5 @@
+package com.website.galleryservice.controllers;
+
+public class HomeController {
+
+}
